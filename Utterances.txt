@@ -1,0 +1,4 @@
+GetLightSpeed what is light speed
+GetLightSpeed what is the speed of light
+GetTwightlight when is twighlight
+GetTwightlight when is {Twighlight} twighlight

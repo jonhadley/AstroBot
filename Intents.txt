@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "GetTwightlight",
+      "slots": [
+        {
+          "name": "Twighlight",
+          "type": "LIST_OF_TWIGHLIGHT"
+        }
+      ]
+    },
+    {
+      "intent": "GetLightSpeed"
+    }
+  ]
+}
